@@ -29,8 +29,3 @@ Pull-based (ArgoCD + EKS):
 
 ## Cost
 Total lab cost: under Rs 50, EKS cluster deleted after lab
-'@ | Set-Content README.md
-
-git add .
-git commit -m "docs: add README comparing push vs pull CI/CD"
-git push origin main
